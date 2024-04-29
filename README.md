@@ -33,7 +33,8 @@ This project implements a web application for classifying flowers using a Convol
 3. Upload an image of a flower for classification which should be in the type of sunflowers, dandelion , rose , tulips, daisy .
 4. View the predicted class label along with the confidence score for each 5 categories as shown below.
 
-    ![gradio_interface](gradio interface.png)
+![gradio_interface](gradio%20interface.png)
+
 
    
 
